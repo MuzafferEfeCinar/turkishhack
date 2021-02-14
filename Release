@@ -1,8 +1,7 @@
-Origin: AH4Ma
-Label: AH4Ma
-Suite: stable
+Origin: TurkishHACK
+Label: TurkishHACKSuite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: a Cydia repo by AH4Ma MLS
+Description: Bu Cydia/Sileo Reposudur......
