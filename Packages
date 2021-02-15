@@ -6,7 +6,7 @@ Maintainer: Saksuka <refeeee@yahoo.com>
 Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/tema.deb
-Size: 3826 
+Size: 34000 
 MD5sum: c92d4235cdbdd334224f66ed611fc0e0
 Description: bu Temadýr.
 Name: Test package
