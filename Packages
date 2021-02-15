@@ -1,14 +1,21 @@
 
 Package: com.turkishhack.FirstRelease
+
 Version: 1.0
-Section: Tweaks
-Maintainer: Saksuka <refeeee@yahoo.com>
+
+Section: Themes
+Maintainer: Saksuka 
+
 Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
+
 Filename: ./debs/tema.deb
-Size: 34000 
+
+Size: 3826 
+
 MD5sum: c92d4235cdbdd334224f66ed611fc0e0
-Description: bu Temadýr.
-Name: Test package
-Author: Saksuka <eeeeeffeee@yahoo.com>
-Depiction: Bu Temadýr. Anemone ile güle güle kullanýn...
+Description: bu Temadir.
+
+Name: SistemOS Tema
+Author: Saksuka 
+Depiction: 
