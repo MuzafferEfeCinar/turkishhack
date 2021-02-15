@@ -1,21 +1,6 @@
 
 Package: com.turkishhack.FirstRelease
-
-Version: 1.0
-
-Section: Themes
-Maintainer: Saksuka 
-
-Depends: firmware (>10.0), mobilesubstrate
-Architecture: iphoneos-arm
-
-Filename: ./debs/tema.deb
-
-Size: 3826 
-
-MD5sum: c92d4235cdbdd334224f66ed611fc0e0
-Description: bu Temadir.
-
-Name: SistemOS Tema
-Author: Saksuka 
-Depiction: 
+Version: 1.0Section: ThemesMaintainer: SaksukaDepends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-armFilename: ./debs/tema.deb
+Size: 3826MD5sum:c92d4235cdbdd334224f66ed611fc0eDescription: bu Temadir.Name: SistemOS TemaAuthor: Saksuka 
+ 
