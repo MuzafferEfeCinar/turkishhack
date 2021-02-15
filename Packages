@@ -2,12 +2,13 @@
 Package: com.turkishhack.FirstRelease
 Version: 1.0
 Section: Tweaks
-Maintainer: AH4Ma <refeeee@yahoo.com>
+Maintainer: Saksuka <refeeee@yahoo.com>
 Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/tema.deb
 Size: 3826 
 MD5sum: c92d4235cdbdd334224f66ed611fc0e0
-Description: Bu paket yalanir gerName: Test package
-Author: Tefeeeee <eeeeeffeee@yahoo.com>
-Depiction: A Test tweak
+Description: bu Temapackage.
+Name: Test package
+Author: Saksuka <eeeeeffeee@yahoo.com>
+Depiction: Bu Temadýr. Anemone ile güle güle kullanýn...
